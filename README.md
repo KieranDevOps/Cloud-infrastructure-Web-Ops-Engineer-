@@ -35,3 +35,6 @@ Not really no. the odd travel to DC’s in the UK but that’ll be covered by th
 
 **What is the team structure?**
 This role reports to the Engineering Team Lead, sitting a team of 5 other engineers, two of which are highly skilled contractors.
+
+**What is the interview process?**
+I will disucss you CV with the hiring manager and he will assess suitability. Assuming all goes well with that convo, a short test released that can be done ahead of a one stage face to face interview. The test is discussed at interview along with your typical competency intevriews Q's from HR. After the face to face, it's stright to offer :) 
